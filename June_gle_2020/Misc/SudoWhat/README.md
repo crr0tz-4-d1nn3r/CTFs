@@ -10,7 +10,7 @@ ruffryders
 ```
 
 ## Solution
-Karl had the bright idea on this one. After attemption the "Bathroom Code" (unfinished) and sudoku fresh on the brain, he was like "wait ... is that a play on words?". Figured I'de see if the numbers made a solvable puzzle. What do you know.
+Karl had the bright idea on this one. After attempting the "Bathroom Code" (unfinished) and sudoku fresh on the brain, he was like "wait ... is that a play on words?". Figured I'd see if the numbers made a solvable puzzle. What do you know.
 
 https://www.sudokuwiki.org/sudoku.htm
 
