@@ -14,7 +14,7 @@ Karl had the bright idea on this one. After attemption the "Bathroom Code" (unfi
 
 https://www.sudokuwiki.org/sudoku.htm
 
-![2e8689bd89bc804de5b5d40c08122bd6.png](../../../../_resources/73a8d33ec9fa40bebcb2efe9142ef1ea.png)
+![2e8689bd89bc804de5b5d40c08122bd6.png](../../_resources/73a8d33ec9fa40bebcb2efe9142ef1ea.png)
 
 Some letter mapping later
 ```shell
