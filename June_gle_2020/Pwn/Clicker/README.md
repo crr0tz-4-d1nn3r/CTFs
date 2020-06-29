@@ -29,15 +29,15 @@ clicker_save
 
 The flag is not in the list of strings, but the one string talks about the flag. Open the program in Ghidra and locate that string. It's at instruction 0x0040124a.
 
-![1257a7070b02d61b1706a57c72c935dd.png](../../../../_resources/6a8c4373716c403fb6c83ce281f888b4.png)
+![1257a7070b02d61b1706a57c72c935dd.png](../../_resources/6a8c4373716c403fb6c83ce281f888b4.png)
 
 So, the program pushes a bunch a variables to the stack then calls print. Looks like the flag is hard coded. Take a look at the variable allocation:
 
-![d4028d7be6d4c91f7ec2b1e540281d91.png](../../../../_resources/5642bbc98308404ebf890ab390ded6f2.png)
+![d4028d7be6d4c91f7ec2b1e540281d91.png](../../_resources/5642bbc98308404ebf890ab390ded6f2.png)
 
 I can say I completely understand what;s happening on the stack and with printf. My understanding was that printf grabbed parameters from the stack, but registers are being used here as well. Thank you Ghidra for helping me see what's happening:
 
-![ae7e308f56b0f485eec3b7c1e9598cef.png](../../../../_resources/04603261d33a4d6c85549540bc98c2c7.png)
+![ae7e308f56b0f485eec3b7c1e9598cef.png](../../_resources/04603261d33a4d6c85549540bc98c2c7.png)
 
 Remeber that byte order is reversed. The final appearence of the bytes:
 
