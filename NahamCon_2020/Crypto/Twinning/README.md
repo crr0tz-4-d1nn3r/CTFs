@@ -1,5 +1,3 @@
-README
-
 # Twinning
 100 points
 

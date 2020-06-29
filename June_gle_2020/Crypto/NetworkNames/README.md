@@ -1,5 +1,3 @@
-README
-
 # Network Names
 100 points
 

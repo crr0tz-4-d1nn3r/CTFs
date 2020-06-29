@@ -1,5 +1,3 @@
-README
-
 # Homecooked
 100 points
 

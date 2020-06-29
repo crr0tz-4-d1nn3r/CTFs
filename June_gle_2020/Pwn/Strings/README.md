@@ -1,5 +1,3 @@
-README
-
 # Strings
 75 points
 

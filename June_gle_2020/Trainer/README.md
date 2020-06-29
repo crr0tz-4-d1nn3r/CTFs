@@ -1,5 +1,3 @@
-README
-
 # Level 1
 10 points
 

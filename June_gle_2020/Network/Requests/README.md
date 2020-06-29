@@ -1,5 +1,3 @@
-README
-
 # Requests
 100 points
 

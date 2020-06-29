@@ -1,5 +1,3 @@
-README
-
 # Covert Comms
 50 points
 
@@ -11,7 +9,7 @@ flag{How_did_you_find_this}
 ```
 
 ## Solution
-Download pcap file, open in wire shark. The packet data contaings one characher that is changing. If you step through the traffic, you can start getting a feel for what's going on.
+Download pcap file, open in wire shark. The packet data contains one character that is changing. If you step through the traffic, you can start getting a feel for what's going on.
 
 Time for python. I'm using scapy (https://scapy.net/) to open and parse the pcap. Then I just print the character of interest to the console:
 ```python

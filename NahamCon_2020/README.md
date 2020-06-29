@@ -1,5 +1,3 @@
-NahamCon 2020
-
 # NahamCon 2020
 
 - Crypto
