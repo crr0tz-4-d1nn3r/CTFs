@@ -26,7 +26,7 @@ unset env LINES, unset env COLUMNS, unset env HOME in GDB to make the environmen
 ```
 
 ## solution
-I don't know what I'm doing - just want to start with that. Navigate to /CHALLENGES/intro. Read the README, not much help. strings target? Nothing to interesting, but "main" is named.
+I don't know what I'm doing - just want to start with that. Navigate to /CHALLENGES/intro. Read the README, not much help. strings target? Nothing to0 interesting, but "main" is named.
 
 ```
 gdb target
@@ -39,4 +39,4 @@ c
 (waits for input)
 ```
 
-After putting in input, note that it is stored in RAX, gets moved to rbp - 0x10. Compared to 0? if not =0, jump, otherwise call? So, was not = 0, so it jumped to end. Set a break point for that (above), changed the RAX so it wooldn't jump. Got to the vuln() function. it ran through, but noting printed...
+After putting in input, note that it is stored in RAX, gets moved to rbp - 0x10. Compared to 0? if not =0, jump, otherwise call? So, was not = 0, so it jumped to end. Set a break point for that (above), changed the RAX so it wouldn't jump. Got to the vuln() function. it ran, but noting printed...
