@@ -16,10 +16,10 @@ Challenes in the writeup:
 - Misc
 	- [Sudo What?](Misc/SudoWhat/)
 	- [The Past](Misc/ThePast/)
-- Netwrok
-	- [Covert Comms](Netwrok/CovertComms/)
-	- [DoS Series (1-1, 1-2, 1-3, 2-1, 2-2, 3-1)](Netwrok/DoS_Series/)
-	- [Requests](Netwrok/Requests/)
+- Network
+	- [Covert Comms](Network/CovertComms/)
+	- [DoS Series (1-1, 1-2, 1-3, 2-1, 2-2, 3-1)](Network/DoS_Series/)
+	- [Requests](Network/Requests/)
 - Programming
 	- [Roll (1,2,3)](Programming/Rolls/)
 - Pwn
