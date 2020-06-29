@@ -5,7 +5,7 @@ README
 Bunch of images to download
 
 
-## Flag (assumned)
+## Flag (assumed, ran out of time)
 ```shell
 REMEMBERYOURROOTZ
 ```
@@ -14,7 +14,7 @@ REMEMBERYOURROOTZ
 
 Didn't get this one finished until about 10min after the end of the CTF so wasn't able to check the flag. Download 9 images and open in GIMP (https://www.gimp.org/) and arrange. They make a puchcard.
 
-![PunchCard.png](../../../../_resources/7d16dd270d9d404294abdb3f31624a51.png)
+![PunchCard.png](../../_resources/7d16dd270d9d404294abdb3f31624a51.png)
 
 Several sites out there on reading these things. This one (https://www.masswerk.at/keypunch/) was helpful. Made a map using that and started decoding, recording results in Excel:
 ```shell
@@ -24,4 +24,4 @@ P	R	I	N	T	F	(	"	R	E	S	E	A	R	C	H	space	T	H	E	space	P	A	S	T	"	)	;	space	P	R	I	N	T	
 
 ```
 
-![DigitalPunchCard.png](../../../../_resources/09ace4a846504dae8270c42cc8f2fa14.png)
+![DigitalPunchCard.png](../../_resources/09ace4a846504dae8270c42cc8f2fa14.png)
