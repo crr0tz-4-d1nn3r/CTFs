@@ -1,5 +1,3 @@
-README
-
 # December
 125 points
 

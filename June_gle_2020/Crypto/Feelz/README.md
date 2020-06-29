@@ -1,5 +1,3 @@
-README
-
 # Feelz
 25 points
 

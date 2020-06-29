@@ -1,5 +1,3 @@
-README
-
 # ltrace-easy
 100 pints
 

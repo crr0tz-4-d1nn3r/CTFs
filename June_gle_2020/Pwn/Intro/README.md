@@ -1,5 +1,3 @@
-README
-
 # Intro
 300 points
 

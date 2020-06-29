@@ -1,5 +1,3 @@
-README
-
 # Sudo what?
 50 points
 

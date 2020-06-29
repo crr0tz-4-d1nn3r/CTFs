@@ -1,5 +1,3 @@
-README
-
 # The Past
 ?? points
 Bunch of images to download

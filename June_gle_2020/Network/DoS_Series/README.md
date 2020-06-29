@@ -1,5 +1,3 @@
-README
-
 # DoS Level 1-1
 10 points
 

@@ -1,5 +1,3 @@
-README
-
 # Ooo-la-la
 100 points
 

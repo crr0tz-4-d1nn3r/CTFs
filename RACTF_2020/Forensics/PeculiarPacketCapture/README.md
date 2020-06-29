@@ -1,4 +1,3 @@
-
 # Peculiar Packet Capture
 400 points
 

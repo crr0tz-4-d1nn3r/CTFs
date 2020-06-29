@@ -1,5 +1,3 @@
-README
-
 # Clicker
 100 pts
 
@@ -35,7 +33,7 @@ So, the program pushes a bunch a variables to the stack then calls print. Looks 
 
 ![d4028d7be6d4c91f7ec2b1e540281d91.png](../../_resources/5642bbc98308404ebf890ab390ded6f2.png)
 
-I can say I completely understand what;s happening on the stack and with printf. My understanding was that printf grabbed parameters from the stack, but registers are being used here as well. Thank you Ghidra for helping me see what's happening:
+I can not say I completely understand what's happening on the stack and with printf. My understanding was that printf grabbed parameters from the stack (LIFO), but it looked like registers are being used here as well. Thank you Ghidra for helping me see what's happening:
 
 ![ae7e308f56b0f485eec3b7c1e9598cef.png](../../_resources/04603261d33a4d6c85549540bc98c2c7.png)
 

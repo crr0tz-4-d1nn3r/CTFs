@@ -1,5 +1,3 @@
-README
-
 # Easy
 25 points
 
