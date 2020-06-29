@@ -1,5 +1,3 @@
-README
-
 ![a844bb132274d2b7af190e2eeebf1193.png](_resources/ff2193a0ef9742c8b2985bd267b99abf.png)
 
 ![92e0bc14e5710a7c32e9eab23f1cd06a.png](_resources/77846e07b7724becadd71d8aea3ac5d0.png)
