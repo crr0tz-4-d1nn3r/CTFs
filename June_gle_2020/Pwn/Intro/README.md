@@ -3,7 +3,7 @@ README
 # Intro
 300 points
 
-ssh -p 1337 pwn@54.158.92.212
+ssh -p 1337 pwn@xxx.xxx.xxx.xxx
 
 Password: pwnplayground2020
 
