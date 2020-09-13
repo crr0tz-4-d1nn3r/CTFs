@@ -23,7 +23,7 @@ Next hint inbetween divs for the form and about
 <!-- zwsp is fun! -->
 ```
 So zero-width encoding. Next big hint at the bottom of page:
-![a998679a3d5eca6df4215618a1824642.png](../../../../_resources/a6680472145d4d768a26eae08fe2f7c2.png)
+![a998679a3d5eca6df4215618a1824642.png](../../_resources/a6680472145d4d768a26eae08fe2f7c2.png)
 
 Time for python. Using zwsp_steg module make a request to the page.
 ```python
