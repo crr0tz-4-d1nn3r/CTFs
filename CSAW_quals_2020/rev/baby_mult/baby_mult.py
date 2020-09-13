@@ -2,7 +2,6 @@
 """
 Created on Fri Sep 11 17:33:39 2020
 
-@author: cruffo
 """
 
 """
