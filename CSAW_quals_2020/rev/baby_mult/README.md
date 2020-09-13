@@ -26,7 +26,7 @@ UH.åH.ì.HÇEøO...H¸.OçK....H.EðHÇEè....HÇEà....HÇEØ....HÇEÐ....H¸
 ..HÇE..ª..H.EøH.¯EðH.E.H.EèH.¯EàH.¯EØH.¯EÐH.¯EÈH.E.H.EÀH.¯E¸H.¯E°H.¯E¨H..xÿÿÿH.E H.¯E.H.¯E.H..pÿÿÿ¸....É
 ```
 
-Flavor text from problem suggest that this is a program. So, disassembly?
+Flavor text from problem suggest that this is a program. So, disassembly? CyberChef has that ...
 ```shell
 PUSH RBP
 MOV RBP,RSP
