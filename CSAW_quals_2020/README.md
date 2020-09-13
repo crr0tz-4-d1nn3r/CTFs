@@ -2,7 +2,7 @@ README
 
 # Intro
 
-## Samity Check
+## Sanity Check
 sanity
 5 pts
 Join our discord: https://discord.gg/dwYNJ7M
