@@ -1,5 +1,3 @@
-README
-
 # Simple RSA
 50 points, solve #131, 1 hour, 50 minutes after release (2020-07-11 18:50:53)
 
