@@ -9,9 +9,9 @@ Challenges listed in order of solved, with final point values  and time (UTC) fl
 
 - Beginner
     - [Simple RSA](Beginner/Simple_RSA/) - nice start to RSA challenges.
-    - [Pieces](Beginner/Pieces/) - Java src tracing, math
+    - Pieces - Java src tracing, math (writeup incomplete)
     - [Quirky Resolution](Beginner/QR/) - stego, threshold image to get QR code
-    - [Name a more iconic band](Beginner/Iconic/) - Windows mem dump, SAM file password hash crack, some guessing
+    - Name a more iconic band - Windows mem dump, SAM file password hash crack, some guessing (writeup incomplete)
 - Crypto
     - [I Love Rainbows](Crypto/Rainbows/) - rainbow table hashes
     - [Occasionally Tested Protocol](Crypto/OTP/) - xor encryption, timed PRNG
