@@ -1,5 +1,3 @@
-README
-
 # Object Oriented Programming
 413 points, solve #73, 1 day, 7 hours after release (2020-07-13 00:37:40)
 

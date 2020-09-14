@@ -1,5 +1,3 @@
-README
-
 # I Love Rainbows
 50 points, solve #112, 2 hours, 18 minutes after release (2020-07-11 19:18:13)
 

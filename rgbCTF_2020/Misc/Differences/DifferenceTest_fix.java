@@ -10,5 +10,3 @@ public class DifferenceTest {
 		System.out.println("The difference is: " + answer);
 	}
 }
-
- tjaucl scnnesttnntnSp}

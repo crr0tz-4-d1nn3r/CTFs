@@ -1,5 +1,3 @@
-README
-
 # Advanced Reversing Mechanics 1
 216 points, solve #76, 13 hours after release (2020-07-12 06:00:00)
 

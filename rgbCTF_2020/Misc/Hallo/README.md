@@ -1,5 +1,3 @@
-README
-
 # Hallo?
 50 points, solve #182, 1 day, 9 hours after release (2020-07-13 02:03:01)
 

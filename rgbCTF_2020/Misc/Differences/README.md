@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-README
-
->>>>>>> 2890327081a311e00f1ded5149e67bbe8a2be514
 # Differences
 250 points, solve #131, 1 day, 13 hours after release (2020-07-13 06:50:23)
 

@@ -1,5 +1,3 @@
-README
-
 # Pieces
 50 points, solve #224, 9 hours, 11 minutes after release (2020-07-12 02:11:43)
 
