@@ -1,3 +1,5 @@
+README
+
 # Quirky Resolution
 50 points, solve #156, 9 hours, 16 minutes after release (2020-07-12 02:16:18)
 
