@@ -1,5 +1,3 @@
-README
-
 # PI 1: Magic in the air
 470 points, solve #52, 1 day, 23 hours after release (2020-07-13 16:27:10)
 

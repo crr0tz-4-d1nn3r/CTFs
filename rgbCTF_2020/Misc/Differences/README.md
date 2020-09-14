@@ -1,5 +1,3 @@
-README
-
 # Differences
 250 points, solve #131, 1 day, 13 hours after release (2020-07-13 06:50:23)
 
