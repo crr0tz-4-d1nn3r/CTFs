@@ -1,7 +1,0 @@
-README
-
-## Flag:
-```flag
-```
-
-## Solution
