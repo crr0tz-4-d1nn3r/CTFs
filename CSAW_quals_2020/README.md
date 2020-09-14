@@ -14,7 +14,7 @@ CSAW CTF 2020
     - [Perfect Secrecy](crypto/PerfectSecrecy)
 - [Rev](rev/)
     - [baby_mult](rev/baby_mult)
-    - [ezbreezy](rev/ezbreey)
+    - [ezbreezy](rev/ezbreezy)
 - [Web](web/)
     - [widthless](web/widthless)
 
