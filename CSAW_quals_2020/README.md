@@ -5,7 +5,7 @@ CSAW CTF 2020
 
 [https://ctftime.org/event/1079](https://ctftime.org/event/1079)
 
-![scoreboard](_resources/scoreboard.png)
+![scoreboard.png](_resources/scoreboard.PNG)
 
 
 # TOC
