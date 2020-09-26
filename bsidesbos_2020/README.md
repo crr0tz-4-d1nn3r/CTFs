@@ -25,10 +25,10 @@ Came in at 151st place with 1404 points.
 
 | Challenge | Category | Value | Time | 
 |---|---|---|---|
-| [Read The Rules](Warmups/Rules/README.md)     | Warmups        | 50  | September 26th, 10:26:25 AM |
-| [Kiddie Pool](Warmups/Kiddie_Pool/README.md)  | Warmups        | 50  | September 26th, 11:37:31 AM |
-| [Baseball](Warmups/Baseball/README.md)        | Warmups        | 50  | September 26th, 11:50:38 AM |
-| [EZ Bake Oven](Warmups/ExBake/README.md)      | Warmups        | 50  | September 26th, 12:36:13 PM |
-| [Y2K](Warmups/Y2K/README.md)                  | Warmups        | 300 | September 26th, 1:25:36 PM  |
-| [Saving the World](Steganography/SaveTheWorld/README.md)   | Steganography  | 445 | September 26th, 2:49:36 PM  |
-| [Spy Cam](Forensics/Spy_Cam/README.md)       | Forensics      | 459 | September 26th, 3:27:20 PM  |
+| [Read The Rules](Warmups/Rules/)     | Warmups        | 50  | September 26th, 10:26:25 AM |
+| [Kiddie Pool](Warmups/Kiddie_Pool/)  | Warmups        | 50  | September 26th, 11:37:31 AM |
+| [Baseball](Warmups/Baseball/)        | Warmups        | 50  | September 26th, 11:50:38 AM |
+| [EZ Bake Oven](Warmups/ExBake/)      | Warmups        | 50  | September 26th, 12:36:13 PM |
+| [Y2K](Warmups/Y2K/)                  | Warmups        | 300 | September 26th, 1:25:36 PM  |
+| [Saving the World](Steganography/SaveTheWorld/)   | Steganography  | 445 | September 26th, 2:49:36 PM  |
+| [Spy Cam](Forensics/Spy_Cam/)       | Forensics      | 459 | September 26th, 3:27:20 PM  |
