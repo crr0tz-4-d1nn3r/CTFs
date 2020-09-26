@@ -5,7 +5,7 @@ They told us the world was going to end in the year 2000! But it didn't... when 
 
 Open the Deployment tab to start this challenge.
 
-# flag
+# Flag
 ```shell
 flag{we_are_saved_from_py2_k}
 ```

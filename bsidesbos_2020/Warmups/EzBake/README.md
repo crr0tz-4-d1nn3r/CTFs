@@ -5,7 +5,7 @@ Do you like baking? Don't leave the oven on for too long!
 
 Open the Deployment tab to start this challenge.
 
-# flag
+# Flag
 ```shell
 flag{you_are_the_master_baker}
 ```

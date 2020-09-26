@@ -7,7 +7,7 @@ Download the file below.
 
 [baseball](baseball)
 
-# flag
+# Flag
 ```shell
 flag{wow_you_hit_a_homerun_and_really_ran_the_bases_there}
 ```
