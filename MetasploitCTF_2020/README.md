@@ -19,23 +19,23 @@ Thanks to the organizers and thanks to the participants that take the time to wr
 Ran nmap to discover open ports, here is a breif list of those results and some notes of what I got done.
 | ip:port | status | notes |
 |:---|:---:|:---|
-|172.15.41.117:80   | 1 | [4 of Hearts](4_of_Hearts/README.md) |
+|172.15.41.117:80   | 1 | [4 of Hearts](4_of_Hearts/) |
 |172.15.41.117:1080 | - | no clue |
 |172.15.41.117:1337 | + | 9 of clubs |
-|172.15.41.117:4545 | 8 | [8 of Hearts](8_of_Hearts/README.md)  |
-|172.15.41.117:5555 | 2 | [8 of Diamonds](8_of_Diamonds/README.md)  |
-|172.15.41.117:6868 | 6 | [6 of Hearts](6_of_Hearts/README.md) |
-|172.15.41.117:8080 | 5 | [3 of Spades](3_of_Spades/README.md) |
+|172.15.41.117:4545 | 8 | [8 of Hearts](8_of_Hearts/)  |
+|172.15.41.117:5555 | 2 | [8 of Diamonds](8_of_Diamonds/)  |
+|172.15.41.117:6868 | 6 | [6 of Hearts](6_of_Hearts/) |
+|172.15.41.117:8080 | 5 | [3 of Spades](3_of_Spades/) |
 |172.15.41.117:8092 | - | saltly php |
 |172.15.41.117:8101 | - | metasploit module creation |
-|172.15.41.117:8123 | 7 | [Black Joker](Black_Joker/README.md) |
-|172.15.41.117:8200 | 4 | [6 of Diamonds](6_of_Diamonds/README.md) |
+|172.15.41.117:8123 | 7 | [Black Joker](Black_Joker/) |
+|172.15.41.117:8200 | 4 | [6 of Diamonds](6_of_Diamonds/) |
 |172.15.41.117:8202 | - | http login page |
 |172.15.41.117:8201 | - | http, not nc |
 |172.15.41.117:8888 | - | metasploit modules api |
 |172.15.41.117:9000 | - | HTTP games ruby website |
 |172.15.41.117:9008 | - | unsure , see 9010 |
-|172.15.41.117:9007 | 3 | [Red_Joker](Red_Joker/README.md) |
+|172.15.41.117:9007 | 3 | [Red_Joker](Red_Joker/) |
 |172.15.41.117:9010 | - | jar file that seems to relate to 9008 |
 |172.15.41.117:9009 | + | Ace of Clubs |
 |172.15.41.117:9001 | - | http, another ruby query form |
