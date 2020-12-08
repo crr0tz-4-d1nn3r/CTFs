@@ -9,7 +9,7 @@ The main function seems to suggest that the user should enter the phrase "buffal
 
 ![main_function.png](main_function.png)
 
-Also, looks like the only encryption is a XOR with 0x41. The qwuestion is use a debugger to pass the jump of just write some python?
+Also, looks like the only encryption is a XOR with 0x41. The question is use a debugger to pass the jump of just write some python?
 
 Tried the debugger route:
 * gdb (with pwngdb extention)
