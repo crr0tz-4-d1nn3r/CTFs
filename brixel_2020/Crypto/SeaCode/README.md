@@ -13,8 +13,8 @@ SeaGULL
 ```
 
 ## Solution
-Download wav. Inspection shows the classic tone of morse code. Used MRP40 to decode:
-[http://www.polar-electric.com/Morse/MRP40-EN/LoadPRM-EN.html](http://www.polar-electric.com/Morse/MRP40-EN/LoadPRM-EN.html)
+Download wav. Inspection shows the classic tone of morse code. Used MRP40 (Trial version) to decode:
+[http://www.polar-electric.com/Morse/MRP40-EN/](http://www.polar-electric.com/Morse/MRP40-EN/)
 
 
 
