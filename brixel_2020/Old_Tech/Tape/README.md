@@ -26,4 +26,4 @@ wav2tap CTF-TAPe.wav | c64tapedecode -T -v
 
 Output appears to be a BASIC program. Used [https://virtualconsoles.com/online-emulators/c64/](https://virtualconsoles.com/online-emulators/c64/) to run the program.
 
-![flag.png](flag.png)
+![flag.PNG](flag.PNG)
