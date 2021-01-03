@@ -13,7 +13,7 @@ openxml
 ```
 
 ## Solution
-Using ```foremost``` almost feels like cheating sometimes.
+Using ```foremost``` [https://tools.kali.org/forensics/foremost](https://tools.kali.org/forensics/foremost) almost feels like cheating sometimes.
 
 Download the docx, run ```foremost```. It finds a zip file. Not suprising. Inside the sip archiove is another docx... funny.
 
