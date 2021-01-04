@@ -1,3 +1,13 @@
+# Brixel CTF winter edition 2020
+Hackerspace brixel is hosting it's first public CTF during the holidays. CCTF aimed at beginners/intermediates.
+Categories are programming, forensics, osint, reverse engineering/cracking, old tech, crypto, internet and stegano.
+
+## Impressions
+Some fun problems. Organizers pulled out some esoteric topics to play with. Really happy to see challenges involving Slow Scan TV signals, Arduino projects, Ccommodore 64 Tape programs, Punchcards, and the Rockstar programming language. Nice work all. Great first CTF.
+[https://ctftime.org/event/1194](https://ctftime.org/event/1194)
+
+## Problems in this repo:
+  
 - Programming
   - [Speedy](Programming/Speedy) - Web automation
   - [Keep Walking](Programming/KeepWalking) - basic code dev
