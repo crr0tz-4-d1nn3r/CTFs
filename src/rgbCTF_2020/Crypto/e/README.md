@@ -1,8 +1,0 @@
-# e
-
-## Flag
-```shell
-
-```
-
-## Solution

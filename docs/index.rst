@@ -1,9 +1,9 @@
-.. CTF Docs documentation master file, created by
+.. CTF's documentation master file, created by
    sphinx-quickstart on Mon Feb 21 20:11:27 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to CTF Docs's documentation!
+Welcome to CTF's documentation!
 ====================================
 
 .. toctree::
@@ -12,9 +12,9 @@ Welcome to CTF Docs's documentation!
 
 
 
-Indices and tables
+Contents
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :ref:`By Type`
+* :ref:`By CTF`
