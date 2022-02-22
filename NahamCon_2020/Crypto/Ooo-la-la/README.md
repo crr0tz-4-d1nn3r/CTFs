@@ -1,0 +1,26 @@
+# Ooo-la-la
+100 points
+
+Uwu, wow! Those numbers are file!
+
+Download the file below.
+
+prompt.txt
+
+#### References and Tools
+https://docs.sympy.org/latest/modules/ntheory.html
+
+#### Flag 
+```shell
+flag{ooo_la_la_those_are_sexy_primes}
+```
+
+#### Solution
+This one came with a text file:
+```
+N = 3349683240683303752040100187123245076775802838668125325785318315004398778586538866210198083573169673444543518654385038484177110828274648967185831623610409867689938609495858551308025785883804091
+e = 65537
+c = 87760575554266991015431110922576261532159376718765701749513766666239189012106797683148334771446801021047078003121816710825033894805743112580942399985961509685534309879621205633997976721084983
+```
+Similiar to Twinning. But much larger N. Sympy can still deal with it - no problem. Using the same getModInverse function from the last challenge, we get the flag.
+
