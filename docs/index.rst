@@ -18,3 +18,8 @@ Contents
 * :ref:`genindex`
 * :ref:`By Type`
 * :ref:`By CTF`
+
+
+Cryptography
+==================
+.. mdinclude:: ../brixel_2020/Crypto/Droid/README.md
