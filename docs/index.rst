@@ -21,5 +21,10 @@ Contents
 
 
 Cryptography
-==================
-.. mdinclude:: ../brixel_2020/Crypto/Droid/README.md
+---------------
+:doc:`crypto`
+
+.. toctree::
+ :maxdepth: 2
+ :hidden:
+ :caption: Cryptography
