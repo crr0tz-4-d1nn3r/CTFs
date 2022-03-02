@@ -59,6 +59,3 @@ html_theme = 'sphinx_rtd_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-# add sourcecode to path
-import sys, os
-sys.path.insert(0, os.path.abspath('../brixel_2020/Crypto/Droid'))

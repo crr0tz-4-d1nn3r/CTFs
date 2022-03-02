@@ -3,28 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
 Welcome to CTF's documentation!
 ====================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 4
+   :hidden:
+   :caption: By Subject
+
+   /crypto/index
 
 
 
-Contents
-==================
-
-* :ref:`genindex`
-* :ref:`By Type`
-* :ref:`By CTF`
 
 
-Cryptography
----------------
-:doc:`crypto`
 
-.. toctree::
- :maxdepth: 2
- :hidden:
- :caption: Cryptography
