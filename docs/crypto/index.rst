@@ -16,11 +16,11 @@ Tools
 * `CrackStation <https://crackstation.net/>`_: Good place to start on a Hash problem. Sometimes you get lucky. 
 
 
-Example Problems
+Catagories
 -------------------------
 .. toctree::
-   :maxdepth: 1
+ :maxdepth: 2
 
-   bases
-   hashes
-   ciphers
+ /encoding/index
+ /hashes/index
+ /ciphers/index

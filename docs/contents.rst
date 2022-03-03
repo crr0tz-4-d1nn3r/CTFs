@@ -1,7 +1,6 @@
 
 .. toctree::
-   :maxdepth: 4
-   :hidden:
-   :caption: By Subject
+ :maxdepth: 4
+ :caption: By Subject
 
-   /crypto/index
+ /crypto/index

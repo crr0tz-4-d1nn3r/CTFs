@@ -1,8 +1,3 @@
-Hashes
-================
-
-A hash function takes an arbitrary message of arbitrary length and creates an output (a hash) of a fixed length. They are considered one-way functions (it is easy to compute the hash; given the hash, it is difficult to compute the message). The usually attack is to use a rainbow table or to try and find a collision.
-
 `Flawed (Brixel, 2020) <../../brixel_2020/Crypto/Flawed/README.md>`_
 -------------------------------------------------------------------------
 Our l33t hackers hacked a bulletin board and gained access to the database. We need to find the admin password.

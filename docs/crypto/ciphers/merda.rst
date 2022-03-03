@@ -1,7 +1,3 @@
-Ciphers
-================
-Encryption takes a message (plaintext) of arbitrary length, a secret key, and an encryption function to produce the encrypted message (ciphertext). These work on the principle that encrypting is easy, and decryption is very difficult without the key. 
-
 `Merda (Brixel, 2020) <../../brixel_2020/Crypto/Merda/README.md>`_
 -------------------------------------------------------------------------
 An Italian messenger was caught during the war

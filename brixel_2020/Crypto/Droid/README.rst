@@ -1,9 +1,4 @@
-Encodings
-==================
-To reverse the encoding, only the algoritm needs be be known - there is no key or secret required. Some common encoding schemes include base32, base64. Typically, challenges have involved multiple encoding schemes being used in a single challenge.
-
-
-`Droid (Brixel, 2020) <../../brixel_2020/Crypto/Droid/README.md>`_
+Droid
 -------------------------------------------------------------------------
 
 A messenger droid was caught during the intergalactic war. Upon investigating his memory banks, we found this message:
@@ -39,5 +34,3 @@ with the command ```perl -lape '$_=pack"(B8)*",@F'```
 
 
 Flag: brixelCTF{robocop}
-
-
