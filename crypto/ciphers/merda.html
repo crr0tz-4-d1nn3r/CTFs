@@ -1,0 +1,254 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Merda (Brixel, 2020) &mdash; CTF&#39;s 1.0.0 documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="../../_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+        <script type="text/javascript" src="../../_static/jquery.js"></script>
+        <script type="text/javascript" src="../../_static/underscore.js"></script>
+        <script type="text/javascript" src="../../_static/doctools.js"></script>
+        <script type="text/javascript" src="../../_static/language_data.js"></script>
+    
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="../../contents.html" class="icon icon-home"> CTF's
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">By Subject</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../index.html">Crypto</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../contents.html">CTF's</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../contents.html">Docs</a> &raquo;</li>
+        
+      <li>Merda (Brixel, 2020)</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="../../_sources/crypto/ciphers/merda.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="merda-brixel-2020-1">
+<h1><a class="reference external" href="../../brixel_2020/Crypto/Merda/README.md">Merda (Brixel, 2020)</a><a class="headerlink" href="#merda-brixel-2020-1" title="Permalink to this headline">¶</a></h1>
+<p>An Italian messenger was caught during the war</p>
+<p>He was carrying a piece of paper that read:</p>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>ymj kqfl nx gwncjqHYK<span class="o">{</span>uneefsfutqn<span class="o">}</span>
+</pre></div>
+</div>
+<p>Upon torturing the messenger for an explaination, he gestured a V with his fingers. The english guard took it as an insult and killed him right on the spot.</p>
+<p>Maybe he just wanted some peace?</p>
+<div class="section" id="solution">
+<h2>Solution<a class="headerlink" href="#solution" title="Permalink to this headline">¶</a></h2>
+<p>Clues abound in the flavor text of this problem. Fist the reference to Italian. My guess is potentially a Ceasar (because Italian) cipher. A Ceaser cipher uses a shift (or rotation) on an alphabet.</p>
+<table border="1" class="docutils" id="table-1">
+<caption><span class="caption-text">Ceasar Cipher</span><a class="headerlink" href="#table-1" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col width="13%" />
+<col width="13%" />
+<col width="13%" />
+<col width="13%" />
+<col width="13%" />
+<col width="13%" />
+<col width="13%" />
+<col width="13%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head stub">Shift Value</th>
+<th class="head">a</th>
+<th class="head">b</th>
+<th class="head">c</th>
+<th class="head">…</th>
+<th class="head">x</th>
+<th class="head">y</th>
+<th class="head">z</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><th class="stub">1</th>
+<td>b</td>
+<td>c</td>
+<td>d</td>
+<td>…</td>
+<td>y</td>
+<td>z</td>
+<td>a</td>
+</tr>
+<tr class="row-odd"><th class="stub">2</th>
+<td>c</td>
+<td>d</td>
+<td>e</td>
+<td>…</td>
+<td>z</td>
+<td>a</td>
+<td>b</td>
+</tr>
+</tbody>
+</table>
+<p>The ciphertext contains only characters a - z, and the symbols ‘{’ and ‘}’ seem to be in place for the flag. We need to know a number for how much to rotate. The gesture, “V” could be a reference to two or five.</p>
+<p>We could compute the whole table for both shift values, but … well, we could also use a tool, like <a class="reference external" href="https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,5)">CyberChef ROT13</a>. CyberChefs ROT13 will allow the user to set the amount of rotation. For this problem, -5 works (negative to rotate left).  Shift the cipher text left by 5 each letter.</p>
+<p>The message decodes to</p>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>the flag is brixelCTF<span class="o">{</span>pizzanapoli<span class="o">}</span>
+</pre></div>
+</div>
+<p>Flag: brixelCTF{pizzanapoli}</p>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2022, crr0tz
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>
