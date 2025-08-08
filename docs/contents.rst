@@ -4,3 +4,4 @@
  :caption: By Subject
 
  /crypto/index
+ /crypto/ciphers/index
